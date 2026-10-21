@@ -1,0 +1,26 @@
+{
+  "class_to_idx": {
+    "battery": 0,
+    "brake_calliper": 1,
+    "brake_pad": 2,
+    "carburetor": 3,
+    "gas_cap": 4,
+    "muffler": 5,
+    "oil_filter": 6,
+    "radiator": 7,
+    "spark_plug": 8,
+    "wheel_rim": 9
+  },
+  "idx_to_class": {
+    "0": "battery",
+    "1": "brake_calliper",
+    "2": "brake_pad",
+    "3": "carburetor",
+    "4": "gas_cap",
+    "5": "muffler",
+    "6": "oil_filter",
+    "7": "radiator",
+    "8": "spark_plug",
+    "9": "wheel_rim"
+  }
+}

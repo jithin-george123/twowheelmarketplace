@@ -1,0 +1,31 @@
+CAR SPARE PARTS CLASSIFICATION REPORT (UNSEEN TEST SET)
+=================================================================
+Test Accuracy: 98.09%
+Test Loss:     0.0512
+Macro F1:      0.9783
+Weighted F1:   0.9811
+-----------------------------------------------------------------
+                precision    recall  f1-score   support
+
+       battery     1.0000    1.0000    1.0000        55
+brake_calliper     0.9630    0.9630    0.9630        54
+     brake_pad     0.9667    1.0000    0.9831        58
+    carburetor     0.9831    0.9831    0.9831        59
+       gas_cap     1.0000    0.9231    0.9600        39
+       muffler     1.0000    1.0000    1.0000        53
+    oil_filter     0.8718    0.9714    0.9189        35
+      radiator     1.0000    1.0000    1.0000        52
+    spark_plug     1.0000    0.9821    0.9910        56
+     wheel_rim     1.0000    0.9683    0.9839        63
+
+      accuracy                         0.9809       524
+     macro avg     0.9784    0.9791    0.9783       524
+  weighted avg     0.9820    0.9809    0.9811       524
+
+
+TOP CONFUSED SPARE PART PAIRS:
+  • Actual 'brake_calliper' confused as 'oil_filter': 2 instances
+  • Actual 'gas_cap' confused as 'oil_filter': 2 instances
+  • Actual 'carburetor' confused as 'brake_calliper': 1 instances
+  • Actual 'gas_cap' confused as 'brake_pad': 1 instances
+  • Actual 'oil_filter' confused as 'brake_pad': 1 instances

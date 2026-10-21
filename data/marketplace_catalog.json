@@ -1,0 +1,344 @@
+{
+  "battery": {
+    "part_id": "SP-BAT-001",
+    "display_name": "Heavy-Duty Automotive Battery (12V AGM)",
+    "category": "Electrical & Starting Systems",
+    "description": "High-cranking amperage 12V AGM battery with deep-cycle tolerance for modern vehicles with stop-start systems.",
+    "compatible_vehicles": [
+      "Toyota Camry (2018-2024)",
+      "Honda Accord (2017-2023)",
+      "Ford F-150 (2015-2022)",
+      "Volkswagen Golf (2016-2023)"
+    ],
+    "sample_brands": ["Bosch", "Optima", "VARTA", "ACDelco"],
+    "price_range_usd": {
+      "min": 129.99,
+      "max": 249.99,
+      "average": 179.50
+    },
+    "availability": "In Stock",
+    "warranty_months": 36,
+    "product_image_placeholder": "assets/products/battery.jpg",
+    "sellers": [
+      {
+        "seller_id": "SEL-101",
+        "name": "Apex Auto Dynamics",
+        "rating": 4.8,
+        "location": "Dallas, TX",
+        "delivery_days": 2
+      },
+      {
+        "seller_id": "SEL-104",
+        "name": "Global Spark Parts",
+        "rating": 4.6,
+        "location": "Chicago, IL",
+        "delivery_days": 3
+      }
+    ]
+  },
+  "brake_calliper": {
+    "part_id": "SP-CAL-002",
+    "display_name": "Performance Disc Brake Caliper Assembly",
+    "category": "Braking System",
+    "description": "Precision cast dual-piston brake caliper assembly featuring heat-resistant seals and anti-corrosion zinc plating.",
+    "compatible_vehicles": [
+      "BMW 3 Series (2016-2023)",
+      "Audi A4 (2017-2024)",
+      "Honda Civic Type-R (2018-2023)",
+      "Subaru WRX (2015-2022)"
+    ],
+    "sample_brands": ["Brembo", "Wilwood", "TRW", "Raybestos"],
+    "price_range_usd": {
+      "min": 89.99,
+      "max": 319.00,
+      "average": 165.00
+    },
+    "availability": "In Stock",
+    "warranty_months": 24,
+    "product_image_placeholder": "assets/products/brake_calliper.jpg",
+    "sellers": [
+      {
+        "seller_id": "SEL-102",
+        "name": "Brembo Authorized Direct",
+        "rating": 4.9,
+        "location": "Los Angeles, CA",
+        "delivery_days": 1
+      },
+      {
+        "seller_id": "SEL-105",
+        "name": "ProStop Brakes & Rotors",
+        "rating": 4.7,
+        "location": "Atlanta, GA",
+        "delivery_days": 3
+      }
+    ]
+  },
+  "brake_pad": {
+    "part_id": "SP-PAD-003",
+    "display_name": "Low-Dust Ceramic Brake Pad Set (Front & Rear)",
+    "category": "Braking System",
+    "description": "Ultra-quiet ceramic composite brake pads designed for minimal rotor wear, superior thermal stability, and low brake dust.",
+    "compatible_vehicles": [
+      "Toyota RAV4 (2019-2024)",
+      "Honda CR-V (2017-2023)",
+      "Mazda CX-5 (2018-2024)",
+      "Nissan Rogue (2017-2023)"
+    ],
+    "sample_brands": ["Akebono", "Brembo", "Wagner", "Bosch"],
+    "price_range_usd": {
+      "min": 34.99,
+      "max": 95.00,
+      "average": 59.99
+    },
+    "availability": "In Stock",
+    "warranty_months": 12,
+    "product_image_placeholder": "assets/products/brake_pad.jpg",
+    "sellers": [
+      {
+        "seller_id": "SEL-103",
+        "name": "CeramicBrake Direct",
+        "rating": 4.9,
+        "location": "Detroit, MI",
+        "delivery_days": 2
+      },
+      {
+        "seller_id": "SEL-101",
+        "name": "Apex Auto Dynamics",
+        "rating": 4.8,
+        "location": "Dallas, TX",
+        "delivery_days": 2
+      }
+    ]
+  },
+  "carburetor": {
+    "part_id": "SP-CARB-004",
+    "display_name": "4-Barrel Performance Street Carburetor (600 CFM)",
+    "category": "Fuel & Intake Systems",
+    "description": "Classic and vintage vehicle fuel metering carburetor with electric choke and vacuum secondaries.",
+    "compatible_vehicles": [
+      "Chevrolet Small Block 350 (Vintage/Classic)",
+      "Ford Mustang 289/302 (1965-1973)",
+      "Dodge Charger 383 (Classic)",
+      "Universal V8 Applications"
+    ],
+    "sample_brands": ["Holley", "Edelbrock", "Weber", "Quick Fuel"],
+    "price_range_usd": {
+      "min": 249.99,
+      "max": 650.00,
+      "average": 389.00
+    },
+    "availability": "Limited Stock",
+    "warranty_months": 12,
+    "product_image_placeholder": "assets/products/carburetor.jpg",
+    "sellers": [
+      {
+        "seller_id": "SEL-106",
+        "name": "RetroSpeed Performance",
+        "rating": 4.9,
+        "location": "Phoenix, AZ",
+        "delivery_days": 4
+      }
+    ]
+  },
+  "gas_cap": {
+    "part_id": "SP-CAP-005",
+    "display_name": "OEM Locking Fuel Tank Filler Cap",
+    "category": "Fuel & Emission Control",
+    "description": "Vented fuel tank cap with integrated pressure relief valve preventing check-engine code evaporative leaks.",
+    "compatible_vehicles": [
+      "Universal Japanese / Korean Models",
+      "Universal American Trucks & SUVs",
+      "Universal European Hatchbacks"
+    ],
+    "sample_brands": ["Stant", "Gates", "Motorcraft", "Dorman"],
+    "price_range_usd": {
+      "min": 9.99,
+      "max": 28.50,
+      "average": 17.50
+    },
+    "availability": "In Stock",
+    "warranty_months": 24,
+    "product_image_placeholder": "assets/products/gas_cap.jpg",
+    "sellers": [
+      {
+        "seller_id": "SEL-101",
+        "name": "Apex Auto Dynamics",
+        "rating": 4.8,
+        "location": "Dallas, TX",
+        "delivery_days": 2
+      },
+      {
+        "seller_id": "SEL-107",
+        "name": "QuickFix Auto Supply",
+        "rating": 4.5,
+        "location": "Denver, CO",
+        "delivery_days": 2
+      }
+    ]
+  },
+  "muffler": {
+    "part_id": "SP-MUF-006",
+    "display_name": "Stainless Steel Direct-Fit Exhaust Muffler",
+    "category": "Exhaust & Emissions",
+    "description": "Corrosion-resistant aluminized/stainless steel acoustic dampening muffler engineered for optimized backpressure.",
+    "compatible_vehicles": [
+      "Honda Accord (2013-2020)",
+      "Toyota Corolla (2014-2022)",
+      "Hyundai Elantra (2016-2023)",
+      "Chevrolet Silverado 1500 (2014-2020)"
+    ],
+    "sample_brands": ["MagnaFlow", "Flowmaster", "Walker", "Borla"],
+    "price_range_usd": {
+      "min": 79.99,
+      "max": 380.00,
+      "average": 169.00
+    },
+    "availability": "In Stock",
+    "warranty_months": 36,
+    "product_image_placeholder": "assets/products/muffler.jpg",
+    "sellers": [
+      {
+        "seller_id": "SEL-108",
+        "name": "FlowState Exhausts",
+        "rating": 4.8,
+        "location": "Houston, TX",
+        "delivery_days": 3
+      }
+    ]
+  },
+  "oil_filter": {
+    "part_id": "SP-FLT-007",
+    "display_name": "High-Efficiency Synthetic Spin-On Oil Filter",
+    "category": "Engine Lubrication & Filtration",
+    "description": "99% efficiency synthetic blend filter media capturing particles down to 20 microns with silicone anti-drainback valve.",
+    "compatible_vehicles": [
+      "Toyota Camry / RAV4 (2.5L)",
+      "Subaru Outback / Forester (2.5L)",
+      "Ford Escape / Fusion (1.5L / 2.0L EcoBoost)",
+      "Honda Civic / CR-V (1.5L Turbo)"
+    ],
+    "sample_brands": ["Mobil 1", "Fram", "K&N", "Mann-Filter", "Wix"],
+    "price_range_usd": {
+      "min": 6.99,
+      "max": 18.99,
+      "average": 11.50
+    },
+    "availability": "In Stock",
+    "warranty_months": 12,
+    "product_image_placeholder": "assets/products/oil_filter.jpg",
+    "sellers": [
+      {
+        "seller_id": "SEL-101",
+        "name": "Apex Auto Dynamics",
+        "rating": 4.8,
+        "location": "Dallas, TX",
+        "delivery_days": 2
+      },
+      {
+        "seller_id": "SEL-109",
+        "name": "LubeMaster Wholesale",
+        "rating": 4.7,
+        "location": "Indianapolis, IN",
+        "delivery_days": 1
+      }
+    ]
+  },
+  "radiator": {
+    "part_id": "SP-RAD-008",
+    "display_name": "Aluminum Core Engine Cooling Radiator",
+    "category": "Cooling System",
+    "description": "High-efficiency brazed aluminum core with thermal stress relief tanks engineered for maximum heat dissipation.",
+    "compatible_vehicles": [
+      "Jeep Wrangler JK/JL (2012-2023)",
+      "Toyota Tacoma (2016-2023)",
+      "Ford F-150 (2011-2021)",
+      "Honda Pilot (2016-2022)"
+    ],
+    "sample_brands": ["Denso", "Mishimoto", "Spectra Premium", "TYC"],
+    "price_range_usd": {
+      "min": 110.00,
+      "max": 340.00,
+      "average": 185.00
+    },
+    "availability": "In Stock",
+    "warranty_months": 24,
+    "product_image_placeholder": "assets/products/radiator.jpg",
+    "sellers": [
+      {
+        "seller_id": "SEL-110",
+        "name": "ThermalCore Radiators",
+        "rating": 4.8,
+        "location": "Columbus, OH",
+        "delivery_days": 2
+      }
+    ]
+  },
+  "spark_plug": {
+    "part_id": "SP-SPK-009",
+    "display_name": "Iridium Laser Ultra-Fine Spark Plug Set (Pack of 4)",
+    "category": "Ignition & Electrical",
+    "description": "Laser-welded 0.6mm iridium tip electrode delivering extreme ignitability, reduced quenching, and up to 100k mile lifespan.",
+    "compatible_vehicles": [
+      "Toyota Corolla / Prius (1.8L)",
+      "Honda Civic 1.5T / 2.0L",
+      "Hyundai Sonata / Tucson 2.5L",
+      "Mazda 3 / Mazda 6 SkyActiv-G"
+    ],
+    "sample_brands": ["NGK", "Denso", "Bosch", "Champion"],
+    "price_range_usd": {
+      "min": 24.99,
+      "max": 59.99,
+      "average": 39.99
+    },
+    "availability": "In Stock",
+    "warranty_months": 36,
+    "product_image_placeholder": "assets/products/spark_plug.jpg",
+    "sellers": [
+      {
+        "seller_id": "SEL-104",
+        "name": "Global Spark Parts",
+        "rating": 4.6,
+        "location": "Chicago, IL",
+        "delivery_days": 3
+      },
+      {
+        "seller_id": "SEL-101",
+        "name": "Apex Auto Dynamics",
+        "rating": 4.8,
+        "location": "Dallas, TX",
+        "delivery_days": 2
+      }
+    ]
+  },
+  "wheel_rim": {
+    "part_id": "SP-RIM-010",
+    "display_name": "Forged Monoblock Aluminum Alloy Wheel Rim (18x8.5)",
+    "category": "Wheels, Tires & Rims",
+    "description": "Lightweight flow-formed aluminum alloy rim with aggressive multi-spoke design and satin finish.",
+    "compatible_vehicles": [
+      "Volkswagen Golf GTI / R",
+      "Audi S3 / S4",
+      "BMW 3/4 Series (5x120 / 5x112)",
+      "Ford Mustang GT",
+      "Subaru WRX STI (5x114.3)"
+    ],
+    "sample_brands": ["Enkei", "BBS", "Vossen", "Konig", "Rotiform"],
+    "price_range_usd": {
+      "min": 180.00,
+      "max": 650.00,
+      "average": 310.00
+    },
+    "availability": "In Stock",
+    "warranty_months": 36,
+    "product_image_placeholder": "assets/products/wheel_rim.jpg",
+    "sellers": [
+      {
+        "seller_id": "SEL-111",
+        "name": "Apex Wheelworks",
+        "rating": 4.9,
+        "location": "San Diego, CA",
+        "delivery_days": 3
+      }
+    ]
+  }
+}
